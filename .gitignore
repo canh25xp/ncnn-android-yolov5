@@ -1,3 +1,7 @@
 .gradle
 app/build
 app/src/main/jni/ncnn*
+app/.cxx
+.idea
+local.properties
+gradle.properties
