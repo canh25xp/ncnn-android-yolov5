@@ -1,6 +1,6 @@
 .gradle
-app/build
-app/src/main/jni/ncnn*
+build
+app/src/main/jni/ncnn-*-android-vulkan
 app/.cxx
 .idea
 local.properties
